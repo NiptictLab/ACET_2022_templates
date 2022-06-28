@@ -9,7 +9,7 @@ email: yktnlp@gmail.com
 Based on the oxford-poster (https://github.com/gbaydin/oxford-poster)  
 Based on the I6pd2 style created by Thomas Deselaers an Philippe Dreuw.  
 
-## How to Compile
+## How to Compile and Open the PDF Poster
 
 After you update the source latex (acet_poster.tex) and bibtex (acet_poster.bib) files, type following commands:  
 
