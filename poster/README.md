@@ -66,7 +66,7 @@ File information:
 - acet_poster.bib (BibTex file for citations)
 - Makefile (make utility for automation of the latex compilation)
 - fig/ (a folder for figures)
-- acet_poster.pdf (compiled PDF poster file)  
+- [acet_poster.pdf](https://github.com/NiptictLab/ACET_2022_templates-/blob/main/poster/acet_poster.pdf) (compiled PDF poster file)  
 
 ## Reference
 
