@@ -20,7 +20,7 @@ make view
 
 ## Makefile
 
-The source of the Makefile is as follows and update the PDF viewer based on your requirements:  
+The source of the Makefile is as follows and update the latex compiler and PDF viewer etc. based on your requirements:  
 
 ```
 .PHONY: all old view clean clean_all
