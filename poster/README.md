@@ -11,11 +11,50 @@ Based on the I6pd2 style created by Thomas Deselaers an Philippe Dreuw.
 
 ## How to Compile
 
-After you update the source latex file and bibtex files, type following commands:  
+After you update the source latex (acet_poster.tex) and bibtex (acet_poster.bib) files, type following commands:  
 
 ```bash
 make
 make view
+```
+
+## Makefile
+
+The source of the Makefile is as follows and update the PDF viewer based on your requirements:  
+
+```
+.PHONY: all old view clean clean_all
+
+LATEX=pdflatex
+BIBTEX=bibtex
+FILENAME=acet_poster
+SOURCES=$(FILENAME).tex
+
+OLD_SOURCES=old.tex
+PDF_VIEWER=evince
+
+all:
+	$(LATEX) $(SOURCES)
+	$(BIBTEX) $(FILENAME)
+	$(LATEX) $(SOURCES)
+	$(LATEX) $(SOURCES)
+
+old:
+	$(LATEX) $(OLD_SOURCES)
+	$(LATEX) $(OLD_SOURCES)
+	$(LATEX) $(OLD_SOURCES)
+
+view:
+	$(PDF_VIEWER) $(FILENAME).pdf
+
+clean:
+	@rm -vf $(FILENAME).aux $(FILENAME).log $(FILENAME).nav $(FILENAME).out $(FILENAME).snm $(FILENAME).toc $(FILENAME).vrb
+	@echo "Removed LaTeX buildfiles."
+
+clean_all: clean
+	@rm -vf $(FILENAME).pdf
+	@echo "Removed PDF."
+
 ```
 
 ## Reference
