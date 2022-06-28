@@ -9,6 +9,14 @@ email: yktnlp@gmail.com
 Based on the oxford-poster (https://github.com/gbaydin/oxford-poster)  
 Based on the I6pd2 style created by Thomas Deselaers an Philippe Dreuw.  
 
+## How to Compile
+
+After you update the source latex file and bibtex files, type following commands:  
+
+```bash
+make
+make view
+```
 
 ## Reference
 
