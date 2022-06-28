@@ -57,6 +57,15 @@ clean_all: clean
 
 ```
 
+## File Information
+
+File information:  
+
+- acet_poster.tex (latex source)
+- beamerthemeACET.sty (modified version of Oxford style file)
+- acet_poster.bib (BibTex file for citations)
+- Makefile (make utility for automation of the latex compilation)
+
 ## Reference
 
 https://mirror.kku.ac.th/CTAN/macros/latex/contrib/beamer/doc/beameruserguide.pdf  
