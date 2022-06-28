@@ -65,6 +65,7 @@ File information:
 - beamerthemeACET.sty (modified version of Oxford style file)
 - acet_poster.bib (BibTex file for citations)
 - Makefile (make utility for automation of the latex compilation)
+- fig/ (a folder for figures)
 
 ## Reference
 
