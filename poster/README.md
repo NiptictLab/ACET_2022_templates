@@ -1,6 +1,6 @@
 # CADT Latex Poster Template
 
-For your convenience, we prepared a beamer poster style latex template (default to A0 size) for the ACET Conference 2022.  
+ACET 2022 allows authors to use your favourite software for preparing posters such as Adobe Illustrator, Microsoft PowerPoint. We also prepared a beamer poster style latex template (default to A0 size) for the academic/scientific community.  
 
 Written by Ye Kyaw Thu, Affiliate Professor, CADT, Cambodia  
 Last updated: 28 June 2022  
