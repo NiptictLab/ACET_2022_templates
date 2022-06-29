@@ -74,7 +74,7 @@ File information:
 - [beamerthemeACET.sty](https://github.com/NiptictLab/ACET_2022_templates-/blob/main/poster/beamerthemeACET.sty) (modified version of Oxford style file)
 - [acet_poster.bib](https://github.com/NiptictLab/ACET_2022_templates-/blob/main/poster/acet_poster.bib) (BibTex file for citations)
 - [Makefile](https://github.com/NiptictLab/ACET_2022_templates-/blob/main/poster/Makefile) (make utility for automation of the latex compilation)
-- fig/ (a folder for figures)
+- [fig/](https://github.com/NiptictLab/ACET_2022_templates-/tree/main/poster/fig) (a folder for figures)
 - [acet_poster_portrait.pdf](https://github.com/NiptictLab/ACET_2022_templates-/blob/main/poster/acet_poster_portrait.pdf) (compiled portrait PDF poster file)  
 - [acet_poster_landscape.pdf](https://github.com/NiptictLab/ACET_2022_templates-/blob/main/poster/acet_poster_landscape.pdf) (compiled landscape PDF poster file)  
 
