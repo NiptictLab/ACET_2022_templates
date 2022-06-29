@@ -18,6 +18,20 @@ make
 make view
 ```
 
+## Removing LaTeX buildfiles
+
+When you compile a tex file, you several output files such as .toc (relating to \tableofcontents), .aux (mostly used for reference information), .bbl (used by biblatex). If you want to clean such LaTex buildfiles type follow command:  
+
+```bash
+make clean
+```
+
+If you want to clean compiled PDF poster and also LaTex buildfiles type following command:  
+
+```bash
+make clean_all
+```
+
 ## Makefile
 
 The source of the Makefile is as follows and update the latex compiler and PDF viewer etc. based on your requirements:  
