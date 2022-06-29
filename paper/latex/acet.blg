@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: acet.aux
+The style file: unsrt.bst
+Database file #1: acet-sample.bib
+Warning--empty journal in Vichet_2015
+Warning--empty journal in Ye_KhmerSMT_2015
+Warning--empty journal in Ye_KhmerPOS_2017
+You've used 5 entries,
+            1791 wiz_defined-function locations,
+            478 strings with 4800 characters,
+and the built_in function-call counts, 1113 in all, are:
+= -- 91
+> -- 56
+< -- 1
++ -- 21
+- -- 16
+* -- 66
+:= -- 185
+add.period$ -- 16
+call.type$ -- 5
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 8
+duplicate$ -- 53
+empty$ -- 101
+format.name$ -- 16
+if$ -- 244
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 6
+newline$ -- 29
+num.names$ -- 5
+pop$ -- 22
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 26
+stack$ -- 0
+substring$ -- 53
+swap$ -- 11
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 9
+width$ -- 6
+write$ -- 53
+(There were 3 warnings)

@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{ACM:83}
+Association for Computing~Machinery.
+\newblock Association for computing machinery.
+\newblock {\em Computing Reviews}, 24(11):503--512, 1983.
+
+\bibitem{APA}
+American~Psychological Association.
+\newblock {\em Publications Manual}.
+\newblock American Psychological Association, Washington, DC., 1983.
+
+\bibitem{Vichet_2015}
+Vichet Chea, Ye~Kyaw Thu, Chenchen Ding, Masao Utiyama, Andrew Finch, and
+  Eiichiro Sumita.
+\newblock Khmer word segmentation using conditional random fields.
+\newblock 2015.
+\newblock [Online; accessed 29-June-2022].
+
+\bibitem{Ye_KhmerSMT_2015}
+Ye~Kyaw Thu, Vichet Chea, Andrew Finch, Masao Utiyama, and Eiichiro Sumita.
+\newblock A large-scale study of statistical machine translation methods for
+  khmer language.
+\newblock pages 259--269, 2015.
+
+\bibitem{Ye_KhmerPOS_2017}
+Ye~Kyaw Thu, Vichet Chea, and Yoshinori Sagisaka.
+\newblock Comparison of six pos tagging methods on 12k sentences khmer language
+  pos tagged corpus.
+\newblock 2017.
+
+\end{thebibliography}
