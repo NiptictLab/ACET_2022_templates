@@ -62,12 +62,13 @@ clean_all: clean
 
 File information:  
 
-- acet_poster.tex (latex source)
+- acet_poster_portrait.tex (latex source for portrait layout)
+- acet_poster_landscape.tex (latex source for landscape layout)
 - beamerthemeACET.sty (modified version of Oxford style file)
 - acet_poster.bib (BibTex file for citations)
 - Makefile (make utility for automation of the latex compilation)
 - fig/ (a folder for figures)
-- [acet_poster.pdf](https://github.com/NiptictLab/ACET_2022_templates-/blob/main/poster/acet_poster.pdf) (compiled PDF poster file)  
+- [acet_poster_portrait.pdf](https://github.com/NiptictLab/ACET_2022_templates-/blob/main/poster/acet_poster_portrait.pdf) (compiled portrait PDF poster file)  
 
 ## Reference
 
