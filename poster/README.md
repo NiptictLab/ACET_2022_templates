@@ -58,7 +58,7 @@ clean_all: clean
 
 ```
 
-"#" in a line of a makefile starts a comment. If you want to switch between portrait and landscape layout, switch comment out following lines of the Makefile:  
+"#" in a line of a Makefile starts a comment. If you want to switch between portrait and landscape layout, switch comment out following lines of the Makefile:  
 
 ```
 FILENAME=acet_poster_landscape
