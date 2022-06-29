@@ -2,12 +2,12 @@
 
 ACET 2022 allows authors to use your favourite software for preparing posters such as Adobe Illustrator, Microsoft PowerPoint. We also prepared a beamer poster style latex template (default to A0 size) for the academic/scientific community.  
 
-Written by Ye Kyaw Thu, Affiliate Professor, CADT, Cambodia  
-Last updated: 28 June 2022  
-email: yktnlp@gmail.com  
-
 Based on the oxford-poster (https://github.com/gbaydin/oxford-poster)  
 Based on the I6pd2 style created by Thomas Deselaers an Philippe Dreuw.  
+
+Written by Ye Kyaw Thu, Affiliate Professor, CADT, Cambodia  
+Last updated: 29 June 2022  
+email: yktnlp@gmail.com  
 
 ## How to Compile and Open the PDF Poster
 
