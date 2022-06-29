@@ -58,6 +58,13 @@ clean_all: clean
 
 ```
 
+If you want to switch between portrait and landscape layout, switch comment out following lines of the Makefile:  
+
+```
+FILENAME=acet_poster_landscape
+#FILENAME=acet_poster_portrait
+```
+
 ## File Information
 
 File information:  
