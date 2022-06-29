@@ -27,7 +27,8 @@ The source of the Makefile is as follows and update the latex compiler and PDF v
 
 LATEX=pdflatex
 BIBTEX=bibtex
-FILENAME=acet_poster
+FILENAME=acet_poster_landscape
+#FILENAME=acet_poster_portrait
 SOURCES=$(FILENAME).tex
 
 OLD_SOURCES=old.tex
